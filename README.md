@@ -24,8 +24,8 @@
 </head>
 <body>
     <div class="bio">
-        <h1>Jane Doe</h1>
-        <p>Hello! I'm Jane, a passionate web developer with over 5 years of experience in creating dynamic and user-friendly websites. I specialize in front-end development and have a keen eye for design. In my free time, I enjoy hiking and photography.</p>
+        <h1>Abir All</h1>
+        <p>Hello! I'm Abir, a passionate web developer with over 5 years of experience in creating dynamic and user-friendly websites. I specialize in front-end development and have a keen eye for design. In my free time, I enjoy hiking and photography.</p>
     </div>
 </body>
 </html>
