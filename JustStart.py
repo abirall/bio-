@@ -28,7 +28,7 @@ print (a**b)
 print (not True)
 print (not (b>a))
 
-print ("write a prgram to squre print area!")
+#print ("write a prgram to squre print area!")
 
 #side = float (input ("enter the side of the squre:"))
 #sum =side **2
